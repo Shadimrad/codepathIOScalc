@@ -1,5 +1,4 @@
-# Pre-work - *Name of App Here*
-
+# Pre-work - for Codepath's IOS development course
 **Name of your app** is a tip calculator application for iOS.
 
 Submitted by: **Your Name Here**
